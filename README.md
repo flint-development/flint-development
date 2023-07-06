@@ -13,4 +13,5 @@ Currently I donÂ´t have any projects, but I have some repos to share with you ðŸ
 # Contact
 If you have any questions or ideas about one of my projects, you can contact me via the following social media:
 > Discord: flint.development
+> 
 > GitHub: https://github.com/flint-development
